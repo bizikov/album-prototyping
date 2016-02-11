@@ -7,3 +7,5 @@
 3. сшить металлической пружиной.
 
 Альбом готов. Стоимость: 320 рублей.
+
+<img src="http://alexandr.bizikov.ru/pictures/ui.jpg">
