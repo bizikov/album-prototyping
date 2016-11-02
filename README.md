@@ -8,4 +8,4 @@
 
 Альбом готов. Стоимость: 320 рублей.
 
-<img src="http://alexandr.bizikov.ru/pictures/ui.jpg">
+<img src="http://bizikov.ru/upload/2016/05/ui.jpg">
